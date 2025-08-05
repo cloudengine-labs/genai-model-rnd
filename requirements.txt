@@ -1,0 +1,14 @@
+torch
+transformers
+peft
+accelerate
+bitsandbytes
+datasets
+streamlit
+Pillow
+fastapi
+uvicorn
+diffusers
+langchain
+ollama
+mlx-stable-diffusion
