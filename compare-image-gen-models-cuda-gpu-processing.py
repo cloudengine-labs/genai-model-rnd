@@ -15,10 +15,10 @@ MODEL_CONFIG = {
         "local_path": "./models/sd21",
         "hf_id": "stabilityai/stable-diffusion-2-1"
     },
-    "Playground v2.5": {
-        "local_path": "./models/playground",
-        "hf_id": "playgroundai/playground-v2.5-1.0"
-    }
+    # "Playground v2.5": {
+    #     "local_path": "./models/playground",
+    #     "hf_id": "playgroundai/playground-v2.5-1.0"
+    # }
 }
 
 @st.cache_resource(show_spinner=True)

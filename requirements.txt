@@ -11,4 +11,5 @@ uvicorn
 diffusers
 langchain
 ollama
-mlx-stable-diffusion
+mlx
+mlx-image
